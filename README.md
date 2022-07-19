@@ -1,4 +1,4 @@
-# Moein Heidari
+# Reza Azad
 
 ## Hello, My name is Reza Azad! <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Qb5ildMAAAAJ&citpid=5" width="25px">
 
