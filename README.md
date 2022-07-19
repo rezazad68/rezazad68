@@ -1,6 +1,6 @@
 # Reza Azad
 
-## Hello, My name is Reza Azad! <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Qb5ildMAAAAJ&citpid=5" width="25px">
+## Hello, My name is Reza Azad, I am deep learning developer and researcher! Feel free to contact me if you have an open position in your team :). Always eager to discuss with people on resaerch and development topics.
 
 <!-- <a href="https://twitter.com/MoeinHeidari2">
   <img align="left" alt="Moein Heidari | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
